@@ -1,0 +1,20 @@
+[{
+  "AccountId": "0015g00000A3xZkAAJ",
+  "FirstName": "Jane",
+  "LastName": "Doe",
+  "Salutation": "Ms.",
+  "Title": "Procurement Manager",
+  "Department": "Operations",
+  "Phone": "+1-415-555-6789",
+  "MobilePhone": "+1-415-555-9876",
+  "Email": "jane.doe@acme.com",
+  "MailingStreet": "123 Market Street",
+  "MailingCity": "San Francisco",
+  "MailingState": "CA",
+  "MailingPostalCode": "94105",
+  "MailingCountry": "USA",
+  "Description": "Primary procurement contact for Acme Corporation.",
+  "LeadSource": "Web",
+  "AssistantName": "Tom Smith",
+  "AssistantPhone": "+1-415-555-2233"
+}]

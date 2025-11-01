@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "0035g00000B6pTZAAY",
+    "FirstName": "Jane",
+    "LastName": "Doe",
+    "Email": "jane.doe@acme.com",
+    "Phone": "+1-415-555-6789",
+    "Title": "Procurement Manager"
+  },
+  {
+    "Id": "0035g00000B6pTZBBY",
+    "FirstName": "John",
+    "LastName": "Smith",
+    "Email": "john.smith@acme.com",
+    "Phone": "+1-415-555-2345",
+    "Title": "Finance Director"
+  }
+]
